@@ -41,3 +41,17 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+nav#site-nav {
+  display: flex !important;
+  align-items: center !important;
+}
+
+nav#site-nav .masthead__menu-item--lg.persist {
+  display: none !important;
+}
+
+nav#site-nav ul.visible-links {
+  display: flex !important;    
+  margin-left: auto !important;  
+}
