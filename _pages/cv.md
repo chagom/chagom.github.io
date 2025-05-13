@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D. student in Computer Science, Purdue University, Present
-* Ph.D. student in Technology (transferred), Purdue University, 2021-2024
+* Ph.D. student in Technology, Purdue University, 2021-2024 (transferred)
 * Master of Science in Computer Information and Technology, Purdue University, 2018-2020
 * B.S. in College of Computer Science and Engineering & B.E in College of Global Schoole of Media, Soongsil University, 2011-2016
 
