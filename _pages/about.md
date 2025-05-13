@@ -57,9 +57,9 @@ redirect_from:
 <div class="image-wrapper">
   <img src="/images/header.jpg" alt="My photo" style="width: 100%; height: auto;">
 
-  <div class="main-caption">
+  <!-- <div class="main-caption">
     Exploring how humans, robots, and AI understand each other
-  </div>
+  </div> -->
 
   <div class="sub-caption">
     Physical Human-Robot Interaction powered by curiosity... and cute robots hehe
