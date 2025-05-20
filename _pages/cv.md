@@ -9,10 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+To be updated...
+
+
+
+
 Education
 ======
 * Ph.D. student in Computer Science, Purdue University, Present
-* Ph.D. student in Technology, Purdue University, 2021-2024 (transferred)
+* Ph.D. student in Technology, Purdue University, 2021-2024 (previously affiliated)
 * Master of Science in Computer Information and Technology, Purdue University, 2018-2020
 * B.S. in College of Computer Science and Engineering & B.E in College of Global Schoole of Media, Soongsil University, 2011-2016
 
@@ -32,7 +37,7 @@ Work experience
 * Junier iOS Developer, 2015-2016
   
   
-Service and leadership
+Professional Activities
 ======
 ***2025***
 - Reviewer, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
