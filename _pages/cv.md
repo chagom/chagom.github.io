@@ -21,7 +21,7 @@ Education
 * Master of Science in Computer Information and Technology, Purdue University, 2018-2020
 * B.S. in College of Computer Science and Engineering & B.E in College of Global Schoole of Media, Soongsil University, 2011-2016
 
-Work experience
+Selected Work Experience
 ======
 * Graduate Research Assistant, Purdue University
     * Computer Science

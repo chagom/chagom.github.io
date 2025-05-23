@@ -17,3 +17,7 @@ My teaching philosophy has been deeply shaped by Dr. Laux who I learned the impo
 * **CNIT 39200** — Enterprise Data Management, Purdue University, Spring 2022
 * **CNIT 27200** — Database Fundamentals, Purdue University, Fall 2020, Spring 2021, Fall 2021, Fall 2022 
 
+### Workshop
+
+* Guest Lecturer, H-4 Academy Workshop, Purdue University, June 2025 (upcoming)
+* Guest Lecturer, IT Graduate School Training Program, Pai Chai University, June 2022
