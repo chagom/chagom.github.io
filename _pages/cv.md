@@ -58,3 +58,10 @@ Professional Activities
 
 ***2019***
 - IEEE Sensors and Measurement Student Contest, IEEE Sensors Applications Symposium (SAS)
+
+Awards
+======
+* IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) Travel Grant Awards, 2023 
+* Daniel & Martina Lewis Grad Scholarship, 2022-2023, 2020-2021
+* Gary Marsden Travel Awards, ACM SIGCHI, 2022
+* Best Presentation Award, Realizing the Digital Enterprise (RDE) Student Showcase “Mini-Talk” Polytechnic Institute, Purdue University, 2020
