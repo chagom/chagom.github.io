@@ -28,7 +28,8 @@ A full list of peer-reviewed publications is available on [Google Scholar](https
 
 ### Other Publications
 
-- Suh, D., **Cha, G. E.** & Min, B. C. (2024), 
+- Suh, D., **Cha, G. E.** & Min, B. C. (2024), Activity-based Behavioral Cooking
+Proficiency Estimation with Graph Neural Networks and Transformer, Spring Undergraduate Research Conference, Purdue University, USA.
 
 - Kim, S., **Cha, G. E.**, & Min, B. C. (2023), Creating a safer future: The need for datasets on intrusive human behavior towards service robots, Spring Undergraduate Research Conference, Purdue University, USA, April 11, 2023.
 
