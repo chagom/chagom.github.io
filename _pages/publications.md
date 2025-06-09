@@ -8,9 +8,9 @@ author_profile: true
 
 A full list of peer-reviewed publications is available on [Google Scholar](https://scholar.google.com/citations?user=xnt-zV0AAAAJ).
 
-- Tran, H., **Cha, G. E.**, Jeong S. (2025). A Robot That Listens: Enhancing Self-Disclosure and Engagement Through Sentiment-based Backchannels and Active Listening. IEEE International Conference on Robot and Human Interactive Communication (RO-MAN) (pp. 0000-0000). IEEE. (to appear)
+- Tran, H., **Cha, G. E.**, Jeong, S. (2025). A Robot That Listens: Enhancing Self-Disclosure and Engagement Through Sentiment-based Backchannels and Active Listening. IEEE International Conference on Robot and Human Interactive Communication (RO-MAN) (pp. 0000-0000). IEEE. (to appear)
 
-- Cho, H. C., **Cha, G. E.**, Liu, Y., Jeong S. (2025). Motivating Students' Self-study with Goal Reminder and Emotional Support. IEEE International Conference on Robot and Human Interactive Communication (RO-MAN) (pp. 0000-0000). IEEE. (to appear)
+- Cho, H. C., **Cha, G. E.**, Liu, Y., Jeong, S. (2025). Motivating Students' Self-study with Goal Reminder and Emotional Support. IEEE International Conference on Robot and Human Interactive Communication (RO-MAN) (pp. 0000-0000). IEEE. (to appear)
 
 - Jo, W., Wang, R., **Cha, G. E.**, Sun, S., Senthilkumaran, R. K., Foti, D., & Min, B. C. (2024). MOCAS: A multimodal dataset for objective cognitive workload assessment on simultaneous tasks. IEEE Transactions on Affective Computing.
 
