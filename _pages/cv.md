@@ -11,35 +11,12 @@ redirect_from:
 
 To be updated...
 
-
-
-
-Education
 ======
-* Ph.D. student in Computer Science, Purdue University, Present
-* Ph.D. student in Technology, Purdue University, 2021-2024 (previously affiliated)
-* Master of Science in Computer Information and Technology, Purdue University, 2018-2020
-* B.S. in College of Computer Science and Engineering & B.E in College of Global Schoole of Media, Soongsil University, 2011-2016
 
-Selected Work Experience
-======
-* Graduate Research Assistant, Purdue University
-    * Computer Science
-        * Human-AI Interaction (Spring 2025 - current)
-    * Computer Information and Technology
-        * Data analysis of student attrition and retention information to find retention trend (Spring 2020)
-        * Worked on sensor-based multi-vehicle sensor fusion and steering systems (Fall 2018)
-        
-* Research Aide, Mathematics and Computer Science, Argonne National Laboratory (Summer 2019)
-    * Implemented vision-based machine learning models for real-time analysis of atmospheric phenomena on embedded sensor platforms
-
-* Development Assistant Manager, 2016-2018
-* Junier iOS Developer, 2015-2016
-  
-  
 Professional Activities
 ======
 ***2025***
+- Reviewer, IEEE Open Journal of the Computer Society (ongoing)
 - Reviewer, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 
 ***2024***
@@ -58,6 +35,32 @@ Professional Activities
 
 ***2019***
 - IEEE Sensors and Measurement Student Contest, IEEE Sensors Applications Symposium (SAS)
+
+
+
+
+Selected Work Experience
+======
+* Graduate Research Assistant, Purdue University
+    * Computer Science
+        * Human-AI Interaction (Spring 2025 - current)
+    * Computer Information and Technology
+        * Data analysis of student attrition and retention information to find retention trend (Spring 2020)
+        * Worked on sensor-based multi-vehicle sensor fusion and steering systems (Fall 2018)
+        
+* Research Aide, Mathematics and Computer Science, Argonne National Laboratory (Summer 2019)
+    * Implemented vision-based machine learning models for real-time analysis of atmospheric phenomena on embedded sensor platforms
+
+* Development Assistant Manager, 2016-2018
+* Junier iOS Developer, 2015-2016
+
+Education
+======
+* Ph.D. student in Computer Science, Purdue University, Present
+* Ph.D. student in Technology, Purdue University, 2021-2024 (previously affiliated)
+* Master of Science in Computer Information and Technology, Purdue University, 2018-2020
+* B.S. in College of Computer Science and Engineering & B.E in College of Global Schoole of Media, Soongsil University, 2011-2016
+  
 
 Awards
 ======

@@ -19,6 +19,8 @@ My teaching philosophy has been deeply shaped by Dr. Laux who I learned the impo
 
 ### Workshop
 
-* Guest Lecturer, Community-based Mental Health Workshop, Purdue University, June 2025 (upcoming)
-* Guest Lecturer, H-4 Academy Workshop, Purdue University, June 2025 (upcoming)
+* Guest Lecturer, Purdue-UTK Community-based Mental Health Workshop, Purdue University, June 2025
+    - AI for Mental Health Support: designed and deployed a web-based conversational AI system & conducted a pilot study
+* Guest Lecturer, 4-H Academy Workshop, Purdue University, June 2025
+    - Interactive AI: led a workshop, Blockly activities, and facilitated dicussions on social aspects of AI
 * Guest Lecturer, IT Graduate School Training Program, Pai Chai University, June 2022
