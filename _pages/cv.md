@@ -26,16 +26,11 @@ Selected Work Experience
 * Development Assistant Manager, 2016-2018
 * Junier iOS Developer, 2015-2016
 
-Education
-======
-* Ph.D. student in Computer Science, Purdue University, Present
-* Ph.D. student in Technology, Purdue University, 2021-2024 (previously affiliated)
-* Master of Science in Computer Information and Technology, Purdue University, 2018-2020
-* B.S. in College of Computer Science and Engineering & B.E in College of Global Schoole of Media, Soongsil University, 2011-2016
   
 Professional Activities
 ======
 ***2025***
+- Reviewer, ACM CHI conference on Human Factors in Computing Systems
 - Reviewer, IEEE Open Journal of the Computer Society
 - Reviewer, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 
@@ -55,6 +50,13 @@ Professional Activities
 
 ***2019***
 - IEEE Sensors and Measurement Student Contest, IEEE Sensors Applications Symposium (SAS)
+
+Education
+======
+* Ph.D. student in Computer Science, Purdue University, Present
+* Ph.D. student in Technology, Purdue University, 2021-2024 (previously affiliated)
+* Master of Science in Computer Information and Technology, Purdue University, 2018-2020
+* B.S. in College of Computer Science and Engineering & B.E in College of Global Schoole of Media, Soongsil University, 2011-2016
 
 Awards
 ======
