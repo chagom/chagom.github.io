@@ -8,7 +8,7 @@ author_profile: true
 
 A full list of peer-reviewed publications is available on [Google Scholar](https://scholar.google.com/citations?user=xnt-zV0AAAAJ).
 
-- Tran, H., **Cha, G. E.**, Jeong, S. (2025). anonymized title. ACM CHI conference on Human Factors in Computing Systems. (under review)
+- anoymized authors. (2026). anonymized title. ACM CHI conference on Human Factors in Computing Systems. (under review)
 
 - Tran, H., **Cha, G. E.**, Jeong, S. (2025). A Robot That Listens: Enhancing Self-Disclosure and Engagement Through Sentiment-based Backchannels and Active Listening. IEEE International Conference on Robot and Human Interactive Communication (RO-MAN). IEEE. (to appear)
 
