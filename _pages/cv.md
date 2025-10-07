@@ -30,6 +30,7 @@ Selected Work Experience
 Professional Activities
 ======
 ***2025***
+- Reviewer, ACM/IEEE International Conference on Human-Robot Interaction (HRI; ongoing)
 - Reviewer, ACM CHI conference on Human Factors in Computing Systems (ongoing)
 - Reviewer, IEEE Open Journal of the Computer Society
 - Reviewer, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
