@@ -42,7 +42,6 @@ Professional Activities
 ***2023***
 - Reviewer, IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)  
 - Reviewer, IEEE International Conference on Intelligent Autonomous Systems (CIAS)
-<!-- - Judge, Spring Undergraduate Research Conference, Purdue Polytechnic Institute, Purdue University -->
 
 ***2021***
 - Reviewer, International Journal of Fuzzy Logic and Intelligent Systems (IJFIS)
