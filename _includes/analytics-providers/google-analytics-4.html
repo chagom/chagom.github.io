@@ -3,6 +3,25 @@
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', '{{site.analytics.google.tracking_id}}');
+
+  (function(){
+    let sent = false;
+    function sendIfNotSent() {
+      if (sent) return;
+      sent = true;
+      gtag('event', 'page_view', {
+        page_location: location.href,
+        page_path: location.pathname,
+        page_title: document.title
+      });
+    }
+    ['mousemove','scroll','keydown','touchstart','pointerdown'].forEach(ev =>
+    window.addEventListener(ev, sendIfNotSent, { once: true, passive: true })
+  );
+  setTimeout(() => {
+    if (document.visibilityState === 'visible') sendIfNotSent();
+  }, 3000);
+    
+  })();
 </script>
