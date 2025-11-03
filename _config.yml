@@ -13,7 +13,7 @@ title                    : "Go-Eum Cha"
 title_separator          : "|"
 name                     : &name "Go-Eum Cha"
 description              : &description "Ph.D. student in Computer Science with a focus on Human-AI interaction."
-url                      : https://chagom.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://www.goeumcha.com # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chagom/chagom.github.io"
 
@@ -25,7 +25,7 @@ author:
   avatar           : "main_image.jpg"
   name             : "Go-Eum Cha"
   pronouns         : "she/her"
-  bio              : ""
+  bio              : "Go-Eum Cha is a Ph.D. student in Computer Science at Purdue University. Her research bridges Human-Robot Interaction and Human-Agent Interaction (HRI/HAI) through conversation, exploring how social psychology-inspired AI enables robots and agents to engage in contextually adaptive dialogues with individuals and groups. Her work aims to bring humans and intelligent agents closer together through socially aligned, empathetic, and conversational interaction design."
   location         : "West Lafayette, IN, USA"
   employer         : "Purdue University"
   uri              : # URL
