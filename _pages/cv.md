@@ -24,7 +24,7 @@ Selected Work Experience
     * Implemented vision-based machine learning models for real-time analysis of atmospheric phenomena on embedded sensor platforms
 
 * Development Assistant Manager, 2016-2018
-* Junier iOS Developer, 2015-2016
+* iOS Developer, 2015-2016
 
   
 Professional Activities
@@ -47,10 +47,10 @@ Professional Activities
 ***2021***
 - Reviewer, International Journal of Fuzzy Logic and Intelligent Systems (IJFIS)
 - Reviewer, IEEE Transactions on Human-Machine Systems (THMS; delegated)
--  Reviewer, IEEE International Conference on Robotics and Automation (ICRA)
+- Reviewer, IEEE International Conference on Robotics and Automation (ICRA)
 
 ***2019***
-- IEEE Sensors and Measurement Student Contest, IEEE Sensors Applications Symposium (SAS)
+- Judge, IEEE Sensors and Measurement Student Contest, IEEE Sensors Applications Symposium (SAS)
 
 Education
 ======
