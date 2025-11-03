@@ -31,7 +31,7 @@ Professional Activities
 ======
 ***2025***
 - Reviewer, IEEE International Conference on Robotics and Automation (ICRA; ongoing)
-- Reviewer, ACM/IEEE International Conference on Human-Robot Interaction (HRI; ongoing)
+- Reviewer, ACM/IEEE International Conference on Human-Robot Interaction (HRI)
 - Reviewer, ACM CHI conference on Human Factors in Computing Systems
 - Reviewer, IEEE Open Journal of the Computer Society
 - Reviewer, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
