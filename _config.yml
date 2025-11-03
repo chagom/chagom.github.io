@@ -25,7 +25,7 @@ author:
   avatar           : "main_image.jpg"
   name             : "Go-Eum Cha"
   pronouns         : "she/her"
-  bio              : "Go-Eum Cha is a Ph.D. student in Computer Science at Purdue University. Her research bridges Human-Robot Interaction and Human-Agent Interaction (HRI/HAI) through conversation, exploring how social psychology-inspired AI enables robots and agents to engage in contextually adaptive dialogues with individuals and groups. Her work aims to bring humans and intelligent agents closer together through socially aligned, empathetic, and conversational interaction design."
+  bio              : "" #"Go-Eum Cha is a Ph.D. student in Computer Science at Purdue University. Her research bridges Human-Robot Interaction and Human-Agent Interaction (HRI/HAI) through conversation, exploring how social psychology-inspired AI enables robots and agents to engage in contextually adaptive dialogues with individuals and groups. Her work aims to bring humans and intelligent agents closer together through socially aligned, empathetic, and conversational interaction design."
   location         : "West Lafayette, IN, USA"
   employer         : "Purdue University"
   uri              : # URL
