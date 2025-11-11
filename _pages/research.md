@@ -29,7 +29,7 @@ If you are curious about the motivation behind my journey: [here](/research_root
 - CAREER: Adaptive Human Multi-Robot Systems: [TAC](https://doi.org/10.1109/TAFFC.2024.3414330), [IROS](https://doi.org/10.1109/IROS55552.2023.10341633), [CHI](https://doi.org/10.1145/3491101.3519658)
 - NASA Space Robotics Challenge Phase 2 (SRC2); autonomous multi-lunar rover operation. Purdue-Hongik Team
 - Waggle AI@Edge; vision-based machine learning models for real-time analysis of atmospheric phenomena on embedded sensor platforms: [acknowledged](https://doi.org/10.3390/atmos12030395)
-- CounterUAV with 2.4GHz FMCW Radar
+- CounterUAV with 2.4GHz FMCW Radar: [SAS 2019]()
 - Social robots for older adult with mild cognitive impairment: [JATIT](https://scholarworks.bwise.kr/ssu/handle/2018.sw.ssu/35497?mode=full)
 
 
