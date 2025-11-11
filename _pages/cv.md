@@ -30,7 +30,7 @@ Selected Work Experience
 Professional Activities
 ======
 ***2025***
-- Reviewer, IEEE International Conference on Robotics and Automation (ICRA; ongoing)
+- Reviewer, IEEE International Conference on Robotics and Automation (ICRA)
 - Reviewer, ACM/IEEE International Conference on Human-Robot Interaction (HRI)
 - Reviewer, ACM CHI conference on Human Factors in Computing Systems
 - Reviewer, IEEE Open Journal of the Computer Society
