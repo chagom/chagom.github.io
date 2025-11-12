@@ -15,7 +15,7 @@ I'm sometimes getting emails about why I chose to focus on social robots instead
 If you are curious about the motivation behind my journey: [here](/research_root/).
 
 
-## Active Projects
+## Participating Projects
 - Multi-Robot Interaction with Group Dynamics 
 - Asian-Immigrant Mental Health AI Agent Interaction 
 - Graph-based conversation flow management
