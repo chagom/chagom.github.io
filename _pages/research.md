@@ -23,11 +23,12 @@ If you are curious about the motivation behind my journey: [here](/research_root
 - Empathetic social robot: [RO-MAN 25'](https://arxiv.org/pdf/2509.07873)
 - Public Social Robot
 - Mobile literacy education with socially marginalized groups
+
 <span style="color:gray">*(The topic is intentionally kept vague)* </span>
 
 ## Previous Projects
 - Study companion robot: [RO-MAN 25'](https://arxiv.org/pdf/2510.23860)
-- CAREER: Adaptive Human Multi-Robot Systems: [TAC 24'](https://doi.org/10.1109/TAFFC.2024.3414330), [IROS 23'](https://doi.org/10.1109/IROS55552.2023.10341633), [CHI 22'](https://doi.org/10.1145/3491101.3519658)
+- CAREER: Adaptive Human Multi-Robot Systems: [TAC 24'](https://doi.org/10.1109/TAFFC.2024.3414330), [IROS 23'](https://doi.org/10.1109/IROS55552.2023.10341633), [CHI EA 22'](https://doi.org/10.1145/3491101.3519658)
 - NASA Space Robotics Challenge Phase 2 (SRC2); autonomous multi-lunar rover operation. Purdue-Hongik Team
 - Waggle AI@Edge; vision-based machine learning models for real-time analysis of atmospheric phenomena on embedded sensor platforms: [acknowledged](https://doi.org/10.3390/atmos12030395)
 - CounterUAV with 2.4GHz FMCW Radar: [SAS 19']()
