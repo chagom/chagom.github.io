@@ -18,6 +18,7 @@ If you are curious about the motivation behind my journey: [here](/research_root
 ## Active Projects
 - Multi-Robot Interaction with Group Dynamics 
 - Asian-Immigrant Mental Health AI Agent Interaction 
+- Graph-based conversation flow management
 - Empathetic social robot: [RO-MAN 25'](https://arxiv.org/pdf/2509.07873)
 - Multimodal suicidality detection
 - Public Social Robot
