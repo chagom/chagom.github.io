@@ -20,7 +20,7 @@ If you are curious about the motivation behind my journey: [here](/research_root
 - Multi-Robot Interaction with group dynamics (lead)
 - Asian-Immigrant mental health AI agent interaction (co-lead; external) 
 - Graph-based conversation flow (lead)
-- Multimodal suicidality detection (external)
+- Multimodal mental health detection (external)
 - Empathetic social robot: [RO-MAN 25'](https://arxiv.org/pdf/2509.07873)
 - Public social robot
 - Mobile literacy education with socially marginalized groups
