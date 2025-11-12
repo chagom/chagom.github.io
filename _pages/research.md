@@ -15,15 +15,15 @@ I'm sometimes getting emails about why I chose to focus on social robots instead
 If you are curious about the motivation behind my journey: [here](/research_root/).
 
 
-## Participating Projects
-- Multi-Robot Interaction with Group Dynamics 
-- Asian-Immigrant Mental Health AI Agent Interaction 
-- Graph-based conversation flow management
+## Participating Projects 
+- Multi-Robot Interaction with Group Dynamics (lead)
+- Asian-Immigrant Mental Health AI Agent Interaction (co-lead; external) 
+- Graph-based conversation flow (lead)
+- Multimodal suicidality detection (external)
 - Empathetic social robot: [RO-MAN 25'](https://arxiv.org/pdf/2509.07873)
-- Multimodal suicidality detection
 - Public Social Robot
 - Mobile literacy education with socially marginalized groups
-
+<span style="color:gray">*(The topic is intentionally kept vague)* </span>
 
 ## Previous Projects
 - Study companion robot: [RO-MAN 25'](https://arxiv.org/pdf/2510.23860)
