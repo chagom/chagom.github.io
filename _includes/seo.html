@@ -117,7 +117,7 @@
   </script>
 {% endif %}
 
-{% if site.social %}
+{% if site.social and site.social.type and site.social.type != "Person" %}
   <script type="application/ld+json">
     {
       "@context" : "http://schema.org",
