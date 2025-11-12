@@ -71,6 +71,8 @@ I am a Ph.D. student in Computer Science at Purdue University, working with memb
 
 My work spans Human-Robot Interation (HRI), social psychology-inspired AI, and socially-aligned robot behaviors. I'm interested in bringing robots closer to people in meaningful and intuitive ways. 
 
+Interaction is fundamentally reciprocal. I study human behavior in HRI, observing and analyzing behavioral patterns that emerge through the mutual process. *(And sometimes, I like to think I read people pretty well too)*
+
 While some may see my goals as overly ambitious, I am someone who pursues what I truly believe in with persistence and sincerity. 
 
 You can find my publications, ongoing projects, and contact information through this website.
