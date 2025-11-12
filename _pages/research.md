@@ -10,18 +10,18 @@ author_profile: true
 - Socially-aware AI systems; Vision-Language Models
 - Group Dynamics
 
-I'm sometimes getting emails about why I chose to focus on social robots instead pursuing towards purely robotics and computer vision. My graduate studies have always been directed, from 2016, toward social robotics. Although the route has not always been direct, the choices I made have contributed meaningfully to how I approach this field. The work presented here is shaped by those experiences. 
+I'm sometimes getting emails about why I chose to focus on social robots instead of pursuing purely robotics and computer vision. My graduate studies have always been directed, since 2016, toward social robotics. Although the route has not always been direct, the choices I made have contributed meaningfully to how I approach this field. Not every turn was entirely mine to choose. The work presented here is shaped by those experiences. 
 
 If you are curious about the motivation behind my journey: [here](/research_root/).
 
 
 ## Participating Projects 
-- Multi-Robot Interaction with Group Dynamics (lead)
-- Asian-Immigrant Mental Health AI Agent Interaction (co-lead; external) 
+- Multi-Robot Interaction with group dynamics (lead)
+- Asian-Immigrant mental health AI agent interaction (co-lead; external) 
 - Graph-based conversation flow (lead)
 - Multimodal suicidality detection (external)
 - Empathetic social robot: [RO-MAN 25'](https://arxiv.org/pdf/2509.07873)
-- Public Social Robot
+- Public social robot
 - Mobile literacy education with socially marginalized groups
 
 <span style="color:gray">*(The topic is intentionally kept vague)* </span>

@@ -71,7 +71,7 @@ I am a Ph.D. student in Computer Science at Purdue University, working with memb
 
 My work spans Human-Robot Interation (HRI), social psychology-inspired AI, and socially-aligned robot behaviors. I'm interested in bringing robots closer to people in meaningful and intuitive ways. 
 
-Interaction is fundamentally reciprocal. I study human behavior in HRI, observing and analyzing behavioral patterns that emerge through the mutual process. <span style="color:gray">*(And sometimes, I like to think I read people pretty well too.)* </span>
+Interaction is fundamentally reciprocal. I study human behavior in HRI, observing and analyzing behavioral patterns that emerge through the mutual process. <span style="color:gray; font-size:0.9em;">*(And yes, I like to think I read people pretty well too. Sometimes I wish I didn't.)*</span>
 
 While some may see my goals as overly ambitious, I am someone who pursues what I truly believe in with persistence and sincerity. 
 
