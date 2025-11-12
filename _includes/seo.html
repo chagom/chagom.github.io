@@ -141,4 +141,47 @@
 {% if site.yandex_site_verification %}
   <meta name="yandex-verification" content="{{ site.yandex_site_verification }}">
 {% endif %}
+
+{%- comment -%} Person schema start {%- endcomment -%}
+{%- assign _is_home = (page.url == "/" or page.url == site.baseurl or page.url == site.baseurl | append: "/") -%}
+{%- assign _want_person = site.person.enabled or page.person_schema -%}
+{%- assign _social_is_person = false -%}
+{%- if site.social and site.social.type and site.social.type == "Person" -%}
+  {%- assign _social_is_person = true -%}
+{%- endif -%}
+
+{%- if _want_person and _social_is_person == false -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "{{ site.person.url | default: site.url | append: '#person' }}",
+  "name": "{{ site.person.name | default: site.title | escape }}",
+  "alternateName": [{% for n in site.person.alt_names %}"{{ n | escape }}"{% unless forloop.last %}, {% endunless %}{% endfor %}],
+  "url": "{{ site.person.url | default: site.url | absolute_url }}",
+  "image": "{{ site.person.image | absolute_url }}",
+  "jobTitle": "{{ site.person.job_title | default: 'Researcher' | escape }}",
+  "worksFor": {
+    "@type": "CollegeOrUniversity",
+    "name": "{{ site.person.affiliation.name | escape }}",
+    "department": "{{ site.person.affiliation.department | escape }}",
+    "url": "{{ site.person.affiliation.url }}"
+  },
+  "affiliation": [{
+    "@type": "EducationalOrganization",
+    "name": "{{ site.person.affiliation.name | escape }} {{ site.person.affiliation.department | escape }}"
+  }],
+  "sameAs": [{% for s in site.person.same_as %}"{{ s }}"{% unless forloop.last %}, {% endunless %}{% endfor %}],
+  "researchInterest": [
+    "Human Robot Interaction",
+    "Social Robotics",
+    "Affective AI",
+    "Multimodal Interaction",
+    "Personalization in HRI"
+  ]
+}
+</script>
+{%- endif -%}
+{%- comment -%} Person schema end {%- endcomment -%}
+
 <!-- end SEO -->

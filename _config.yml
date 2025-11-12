@@ -76,6 +76,22 @@ author:
   youtube          : # Username
   zhihu            : # Username
 
+person:
+  enabled: true
+  name: "Go-Eum Cha"
+  alt_names: ["Go Eum Cha", "Goeum Cha"]
+  url: "https://goeumcha.com"         
+  image: "/images/main_image.jpg"
+  job_title: "Ph.D. Student"
+  affiliation:
+    name: "Purdue University"
+    department: "Department of Computer Science"
+    url: "https://www.cs.purdue.edu/"
+  same_as:
+    - "https://linkedin.com/in/go-eum-cha"
+    - "https://scholar.google.com/citations?user=xnt-zV0AAAAJ"
+    - "https://www.cs.purdue.edu/people/graduate-students/cha20.html"
+
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:

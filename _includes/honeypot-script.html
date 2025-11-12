@@ -1,21 +1,17 @@
 <!-- _includes/honeypot-script.html -->
 <script>
 (function(){
-  // 외부 로거 엔드포인트. 아래 예시는 Vercel/Netlify에 배포한 서버리스 경로를 사용.
-  // 없으면 빈 문자열로 두고 GA 이벤트만 사용해도 됨.
-  const LOGGER_URL = "https://your-serverless.example.com/api/log-bot"; // 변경하세요
+  const LOGGER_URL = "https://your-serverless.example.com/api/log-bot";
 
   const hp = document.getElementById('hp-link');
   if (!hp) return;
 
-  // 중복 전송 방지
   let sent = false;
 
   function report(info) {
     if (sent) return;
     sent = true;
 
-    // 1) sendBeacon 우선 - unload 중에도 안전하게 전송
     try {
       const payload = JSON.stringify(info);
       if (navigator.sendBeacon && LOGGER_URL) {
@@ -32,7 +28,6 @@
       }
     } catch(e){}
 
-    // 2) GA 이벤트도 보냄(선택). gtag가 있으면 사용
     try {
       if (typeof gtag === 'function') {
         gtag('event','bot_detected',{

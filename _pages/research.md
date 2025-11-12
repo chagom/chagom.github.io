@@ -3,6 +3,7 @@ layout: single
 title: "Research"
 permalink: /research/
 author_profile: true
+person_schema: true
 ---
 
 ## Research Interests

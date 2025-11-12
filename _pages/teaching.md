@@ -3,6 +3,7 @@ layout: single
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
+person_schema: true
 ---
 
 My teaching philosophy has been deeply shaped by Dr. Dawn Laux who I learned the importance of positive reinforcement in education. Inspired by this approach, I view teaching not mearly as the delivery of knowledge, but as a responsibility to foster curiosity, critical thinking, and independent learning. 
