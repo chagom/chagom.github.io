@@ -19,7 +19,6 @@ If you are curious about the motivation behind my journey: [here](/research_root
 ## Participating Projects 
 - Multi-Robot Interaction with group dynamics (lead)
 - Asian-Immigrant mental health AI agent interaction (co-lead; external) 
-- Graph-based conversation flow (lead)
 - Multimodal mental health detection (external)
 - Public social robot
 - Mobile literacy education with socially marginalized groups
