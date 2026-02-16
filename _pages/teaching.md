@@ -21,6 +21,7 @@ My teaching philosophy has been deeply shaped by Dr. Dawn Laux who I learned the
 
 ### Teaching Assistant and Lab Instructor
 
+* **CS 47500** - Human-Computer Interaction, Purdue University, Spring 2026
 * **CNIT 31500** — C programming, Data Structure, and Algorithm in UNIX, Purdue University, Spring 2024
 * **CNIT 35500** — Software Development for Mobile Computers (Android), Purdue University, Fall 2023
 * **CNIT 48300** — Applied Machine Learning, Purdue University, Fall 2023

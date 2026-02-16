@@ -21,11 +21,11 @@ If you are curious about the motivation behind my journey: [here](/research_root
 - Asian-Immigrant mental health AI agent interaction (co-lead; external) 
 - Multimodal mental health detection (external)
 - Public social robot
-- Mobile literacy education with socially marginalized groups
 
 <span style="color:gray">*(Each topic is intentionally kept vague)* </span>
 
 ## Previous Projects
+- Mobile literacy education with socially marginalized groups
 - Empathetic social robot: [RO-MAN 25'](https://arxiv.org/pdf/2509.07873)
 - Study companion robot: [RO-MAN 25'](https://arxiv.org/pdf/2510.23860)
 - CAREER: Adaptive Human Multi-Robot Systems: [TAC 24'](https://doi.org/10.1109/TAFFC.2024.3414330), [IROS 23'](https://doi.org/10.1109/IROS55552.2023.10341633), [CHI EA 22'](https://doi.org/10.1145/3491101.3519658)
