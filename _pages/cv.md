@@ -31,6 +31,7 @@ Selected Work Experience
 Professional Activities
 ======
 ***2026***
+- Reviewer, ACM Conversational User Interfaces (CUI)
 - Reviewer, ACM CHI conference on Human Factors in Computing Systems EA'
 
 ***2025***
