@@ -11,7 +11,8 @@ My teaching philosophy has been deeply shaped by Dr. Dawn Laux who I learned the
 ## Teaching Experience
 
 ### Invited talks
-
+* Speaker, eVOLve: The Future of Behavioral Health, University of Tennesse, March 2026
+    - AI Storytelling for Immigrant Mental Health: From Pilot to Practice
 * Guest Lecturer, Purdue-UTK Community-based Mental Health Workshop, Purdue University, June 2025
     - AI for Mental Health Support: designed and deployed a web-based conversational AI system & conducted a pilot study
 * Guest Lecturer, 4-H Academy Workshop, Purdue University, June 2025

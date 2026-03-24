@@ -31,6 +31,7 @@ Selected Work Experience
 Professional Activities
 ======
 ***2026***
+- Reviewer, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 - Reviewer, ACM Conversational User Interfaces (CUI)
 - Reviewer, ACM CHI conference on Human Factors in Computing Systems EA'
 
