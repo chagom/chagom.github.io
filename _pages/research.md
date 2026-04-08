@@ -18,7 +18,7 @@ If you are curious about the motivation behind my journey: [here](/research_root
 
 ## Participating Projects 
 - Multi-Robot Interaction with group dynamics (lead)
-- Asian-Immigrant mental health AI agent interaction (co-lead; external) 
+- Asian-Immigrant mental health AI agent interaction (co-lead; external) [eVOLve 26'](https://csw.utk.edu/continuing-education/evolve-conference/)
 - Multimodal mental health detection (external)
 - Public social robot
 
