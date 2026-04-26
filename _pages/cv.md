@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,7 +10,18 @@ person_schema: true
 
 {% include base_path %}
 
-To be updated...
+<div style="display: flex; justify-content: center;">
+<iframe
+  src="{{ base_path }}/files/Goeum_Cha_CV_0425_2026.pdf"
+  width="90%"
+  height="900px"
+  style="border: none;">
+</iframe>
+</div>
+<br><br>
+
+
+
 
 Selected Work Experience
 ======
