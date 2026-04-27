@@ -6,12 +6,26 @@ author_profile: true
 person_schema: true
 ---
 
+## Under Review
+- Tzung-ying Hsieh, Go-Eum Cha, & Sooyeon Jeong, [title omitted for anonymity], ACM International Conference on Multimodal Interaction (ICMI)
+- Hieu Tran, Go-Eum Cha, & Sooyeon Jeong, [title omitted for anonymity], ACM International
+Conference on Multimodal Interaction (ICMI)
+- Sangmi Kim, Go-Eum Cha, Yooseung Kim, Sooyeon Jeong, From Hidden Barriers to Engage-
+ment: Workshop on AI-Supported Digital Storytelling for Immigrant Mental Health, Society for
+Social Work and Research (SSWR)
+- Sangmi Kim, Andrew Kim, Go-Eum Cha, Yoonsook Ha, Sooyeon Jeong, Hong-Jun Yoon, Scop-
+ing Review of Multimodal AI for Suicide Detection on Social Media: Implications for Improvement
+through Data Justice Lens, Society for Social Work and Research (SSWR)
 
+
+## Published 
 A full list of peer-reviewed publications is available on [Google Scholar](https://scholar.google.com/citations?user=xnt-zV0AAAAJ).
 
-- Tran, H., **Cha, G. E.**, Jeong, S. (2025). A Robot That Listens: Enhancing Self-Disclosure and Engagement Through Sentiment-based Backchannels and Active Listening. IEEE International Conference on Robot and Human Interactive Communication (RO-MAN). IEEE. (to appear)
+- Liu, Y., Cha, G. E., Xu, C., Wang, W., Leung, I., Kwan, T., ... & Jeong, S. (2026, April). Designing a Social Robot to Enhance Digital Health Literacy in Cantonese-speaking Chinese Immigrant Communities. In Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems (pp. 1-6).
 
-- Cho, H. C., **Cha, G. E.**, Liu, Y., Jeong, S. (2025). Motivating Students' Self-study with Goal Reminder and Emotional Support. IEEE International Conference on Robot and Human Interactive Communication (RO-MAN). IEEE. (to appear)
+- Tran, H., Cha, G. E., & Jeong, S. (2025, August). A Robot That Listens: Enhancing Self-Disclosure and Engagement Through Sentiment-based Backchannels and Active Listening. In 2025 34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN) (pp. 1741-1748). IEEE.
+
+- Cho, H. C., Cha, G. E., Liu, Y., & Jeong, S. (2025, August). Motivating Students’ Self-study with Goal Reminder and Emotional Support. In 2025 34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN) (pp. 1670-1677). IEEE.
 
 - Jo, W., Wang, R., **Cha, G. E.**, Sun, S., Senthilkumaran, R. K., Foti, D., & Min, B. C. (2024). MOCAS: A multimodal dataset for objective cognitive workload assessment on simultaneous tasks. IEEE Transactions on Affective Computing.
 
