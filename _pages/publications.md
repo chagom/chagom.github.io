@@ -8,14 +8,9 @@ person_schema: true
 
 ## Under Review
 - Tzung-ying Hsieh, Go-Eum Cha, & Sooyeon Jeong, [title omitted for anonymity], ACM International Conference on Multimodal Interaction (ICMI)
-- Hieu Tran, Go-Eum Cha, & Sooyeon Jeong, [title omitted for anonymity], ACM International
-Conference on Multimodal Interaction (ICMI)
-- Sangmi Kim, Go-Eum Cha, Yooseung Kim, Sooyeon Jeong, From Hidden Barriers to Engage-
-ment: Workshop on AI-Supported Digital Storytelling for Immigrant Mental Health, Society for
-Social Work and Research (SSWR)
-- Sangmi Kim, Andrew Kim, Go-Eum Cha, Yoonsook Ha, Sooyeon Jeong, Hong-Jun Yoon, Scop-
-ing Review of Multimodal AI for Suicide Detection on Social Media: Implications for Improvement
-through Data Justice Lens, Society for Social Work and Research (SSWR)
+- Hieu Tran, Go-Eum Cha, & Sooyeon Jeong, [title omitted for anonymity], ACM International Conference on Multimodal Interaction (ICMI)
+- Sangmi Kim, Go-Eum Cha, Yooseung Kim, Sooyeon Jeong, From Hidden Barriers to Engagement: Workshop on AI-Supported Digital Storytelling for Immigrant Mental Health, Society for Social Work and Research (SSWR)
+- Sangmi Kim, Andrew Kim, Go-Eum Cha, Yoonsook Ha, Sooyeon Jeong, Hong-Jun Yoon, Scoping Review of Multimodal AI for Suicide Detection on Social Media: Implications for Improvement through Data Justice Lens, Society for Social Work and Research (SSWR)
 
 
 ## Published 
