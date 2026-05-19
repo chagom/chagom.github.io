@@ -8,7 +8,7 @@ person_schema: true
 
 ## Under Review
 - [anonymous authors], [title omitted for anonymity], ACM International Conference on Multimodal Interaction (ICMI)
-- [anoymized authors], [title omitted for anonymity], ACM International Conference on Multimodal Interaction (ICMI)
+- [anonymous authors], [title omitted for anonymity], ACM International Conference on Multimodal Interaction (ICMI)
 - [anonymous authors], [title omitted for anonymity], Society for Social Work and Research (SSWR)
 - [anonymous authors], [title omitted for anonymity], Society for Social Work and Research (SSWR)
 
