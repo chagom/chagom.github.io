@@ -12,7 +12,7 @@ person_schema: true
 
 <div style="display: flex; justify-content: center;">
 <iframe
-  src="{{ base_path }}/files/CV_Goeum_Cha_051926.pdf"
+  src="{{ base_path }}/files/CV_Goeum_Cha_052026.pdf"
   width="90%"
   height="900px"
   style="border: none;">
