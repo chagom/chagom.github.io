@@ -7,20 +7,19 @@ person_schema: true
 robots: noindex
 ---
 
-My teaching philosophy has been deeply shaped by Dr. Dawn Laux who I learned the importance of positive reinforcement in education. Inspired by this approach, I view teaching not mearly as the delivery of knowledge, but as a responsibility to foster curiosity, critical thinking, and independent learning. 
+My teaching philosophy has been deeply shaped by Dr. Dawn Laux who I learned the importance of positive reinforcement from. Inspired by this approach, I view teaching not merely as the delivery of knowledge, but as a responsibility to foster curiosity, critical thinking, and independent learning. 
 
-## Teaching Experience
-
-### Invited talks
-* Speaker, eVOLve: The Future of Behavioral Health, University of Tennesse, March 2026
+## Invited talks
+* Speaker, eVOLve: The Future of Behavioral Health, University of Tennessee, March 2026
     - AI Storytelling for Immigrant Mental Health: From Pilot to Practice
 * Guest Lecturer, Purdue-UTK Community-based Mental Health Workshop, Purdue University, June 2025
     - AI for Mental Health Support: designed and deployed a web-based conversational AI system & conducted a pilot study
 * Guest Lecturer, 4-H Academy Workshop, Purdue University, June 2025
-    - Interactive AI: led a workshop, Blockly activities, and facilitated dicussions on social aspects of AI
+    - Interactive AI: led a workshop, Blockly activities, and facilitated discussions on social aspects of AI
 * Guest Lecturer, IT Graduate School Training Program, Pai Chai University, June 2022
     - Affective Computing in HRI: led a workshop and facilitated discussion on research 
 
+## Teaching Experience
 ### Teaching Assistant and Lab Instructor
 
 * **CS 47500** - Human-Computer Interaction, Purdue University, Spring 2026
