@@ -78,7 +78,7 @@ While some may see my goals as overly ambitious, I am someone who pursues what I
 
 You can find my publications, ongoing projects, and contact information through this website.
 
-<br><br>
+<br>
 
 <div style="display:flex; align-items:center; gap: 20px; margin-top:30px;">
   <img src="/images/KaiKai.jpg" alt="My Oreo" title="My Oreo" style="width:180px; max-width:60%; border-radius:12px;">

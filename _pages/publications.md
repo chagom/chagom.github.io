@@ -16,11 +16,11 @@ person_schema: true
 ## Published 
 A full list of peer-reviewed publications is available on [Google Scholar](https://scholar.google.com/citations?user=xnt-zV0AAAAJ).
 
-- Liu, Y., Cha, G. E., Xu, C., Wang, W., Leung, I., Kwan, T., ... & Jeong, S. (2026, April). Designing a Social Robot to Enhance Digital Health Literacy in Cantonese-speaking Chinese Immigrant Communities. In Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems (pp. 1-6).
+- Liu, Y., **Cha, G. E.**, Xu, C., Wang, W., Leung, I., Kwan, T., ... & Jeong, S. (2026, April). Designing a Social Robot to Enhance Digital Health Literacy in Cantonese-speaking Chinese Immigrant Communities. In Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems (pp. 1-6).
 
-- Tran, H., Cha, G. E., & Jeong, S. (2025, August). A Robot That Listens: Enhancing Self-Disclosure and Engagement Through Sentiment-based Backchannels and Active Listening. In 2025 34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN) (pp. 1741-1748). IEEE.
+- Tran, H., **Cha, G. E.**, & Jeong, S. (2025, August). A Robot That Listens: Enhancing Self-Disclosure and Engagement Through Sentiment-based Backchannels and Active Listening. In 2025 34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN) (pp. 1741-1748). IEEE.
 
-- Cho, H. C., Cha, G. E., Liu, Y., & Jeong, S. (2025, August). Motivating Students’ Self-study with Goal Reminder and Emotional Support. In 2025 34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN) (pp. 1670-1677). IEEE.
+- Cho, H. C., **Cha, G. E.**, Liu, Y., & Jeong, S. (2025, August). Motivating Students’ Self-study with Goal Reminder and Emotional Support. In 2025 34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN) (pp. 1670-1677). IEEE.
 
 - Jo, W., Wang, R., **Cha, G. E.**, Sun, S., Senthilkumaran, R. K., Foti, D., & Min, B. C. (2024). MOCAS: A multimodal dataset for objective cognitive workload assessment on simultaneous tasks. IEEE Transactions on Affective Computing.
 

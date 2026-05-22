@@ -10,6 +10,7 @@ person_schema: true
 - Human-Robot Interaction (HRI); Physical Robot Interaction
 - Socially-aware AI systems; Vision-Language Models
 - Group Dynamics
+- Mental health
 
 I'm sometimes getting emails about why I chose to focus on social robots instead of pursuing purely robotics and computer vision. My graduate studies have always been directed, since 2016, toward social robotics. The path was not always direct, but the choices I made have shaped the way how I approach this field. Not every turn was entirely mine to choose, and arriving at the field I wanted to be in took many years, shaped in part by circumstances far outside what most people ever face. I now believe I am in the right place to keep building my world.  
 
@@ -19,15 +20,16 @@ If you are curious about the motivation behind my journey: [here](/research_root
 ## Participating Projects 
 - Multi-Robot Interaction with group dynamics (lead)
 - Asian-Immigrant mental health AI agent interaction (co-lead; external) [eVOLve 26'](https://csw.utk.edu/continuing-education/evolve-conference/)
-- Multimodal mental health detection (external)
-- Public social robot
+- XR conversational interface
 
 <span style="color:gray">*(Each topic is intentionally kept vague)* </span>
 
 ## Previous Projects
-- Mobile literacy education with socially marginalized groups
-- Empathetic social robot: [RO-MAN 25'](https://arxiv.org/pdf/2509.07873)
-- Study companion robot: [RO-MAN 25'](https://arxiv.org/pdf/2510.23860)
+- Public social robot: []()
+- Multimodal mental health detection: [](), []()
+- Mobile literacy education with socially marginalized groups: [CHI EA' 26'](https://dl.acm.org/doi/full/10.1145/3772363.3798622)
+- Empathetic social robot: [RO-MAN 25'](https://ieeexplore.ieee.org/document/11217862)
+- Study companion robot: [RO-MAN 25'](https://ieeexplore.ieee.org/document/11217822)
 - CAREER: Adaptive Human Multi-Robot Systems: [TAC 24'](https://doi.org/10.1109/TAFFC.2024.3414330), [IROS 23'](https://doi.org/10.1109/IROS55552.2023.10341633), [CHI EA 22'](https://doi.org/10.1145/3491101.3519658)
 - NASA Space Robotics Challenge Phase 2 (SRC2); autonomous multi-lunar rover operation. Purdue-Hongik Team.
 - Waggle AI@Edge; vision-based machine learning models for real-time analysis of atmospheric phenomena on embedded sensor platforms: [Acknowledged](https://doi.org/10.3390/atmos12030395)
