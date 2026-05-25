@@ -40,7 +40,7 @@ person_schema: true
 
 <div style="display:flex; justify-content:center;">
   <iframe
-    src="/assets/pdfjs/web/viewer.html?file=/files/CV.pdf"
+    src="/assets/pdfjs/web/viewer.html?file=/files/CV_Goeum_Cha_052026.pdf"
     width="90%"
     height="900px"
     style="border:none;">
