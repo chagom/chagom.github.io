@@ -36,9 +36,11 @@ overflow: auto;
 
 <!-- Mobile -->
 
-<div class="cv-mobile-pdf-box">
+<div class="cv-mobile">
+  <div class="cv-mobile-pdf-box">
   <iframe
     src="{{ base_path }}/files/CV_Goeum_Cha_052026.pdf"
     class="cv-mobile-pdf">
   </iframe>
+  </div>
 </div>
