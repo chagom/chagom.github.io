@@ -43,10 +43,12 @@
 
 .cv-mobile {
   display: none;
+  background: blue;
 }
 
 .cv-desktop {
   display: block;
+  background: red;
 }
 
 /* Mobile */
