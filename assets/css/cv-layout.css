@@ -39,35 +39,3 @@
 .cv-download-links a {
   margin: 0 0.5rem;
 }
-
-.cv-mobile {
-  display: none !important;
-}
-
-.cv-desktop {
-  display: block !important;
-}
-
-@media screen and (max-width: 1024px) {
-  .cv-desktop {
-    display: none !important;
-  }
-  .cv-mobile {
-    display: block !important;
-  }
-
-  .cv-mobile-pdf-box {
-    width: 100%;
-    height: 95vh;
-    overflow-y: scroll;
-    overflow-x: hidden;
-    -webkit-overflow-scrolling: touch;
-  }
-
-  .cv-mobile-pdf {
-    width: 100%;
-    height: 4200px;
-    border: none;
-  }
-
-}

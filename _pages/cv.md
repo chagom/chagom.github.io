@@ -10,20 +10,43 @@ person_schema: true
 
 {% include base_path %}
 
-<!-- <div style="display: flex; justify-content: center;
-overflow: auto;
--webkit-overflow-scrolling: touch;">
-<iframe
-  src="{{ base_path }}/files/CV_Goeum_Cha_052026.pdf"
-  width="90%"
-  height="4200px"
-  style="border: none;">
-</iframe>
-</div> -->
+<style>
+  .gcv-mobile {
+    display: none !important;
+  }
 
-<!-- Desktop -->
+  .gcv-desktop {
+    display: block !important;
+  }
 
-<div class="cv-desktop">
+  @media screen and (max-width: 1024px) {
+    .gcv-desktop {
+      display: none !important;
+    }
+
+    .gcv-mobile {
+      display: block !important;
+    }
+
+    .gcv-mobile-box {
+      width: 100%;
+      height: 95vh;
+      overflow-y: scroll;
+      overflow-x: hidden;
+      -webkit-overflow-scrolling: touch;
+    }
+
+    .gcv-mobile-pdf {
+      width: 100%;
+      height: 4200px;
+      border: none;
+    }
+  }
+</style>
+
+
+
+<div class="gcv-desktop">
   <div style="display: flex; justify-content: center;">
     <iframe
       src="{{ base_path }}/files/CV_Goeum_Cha_052026.pdf"
@@ -36,11 +59,11 @@ overflow: auto;
 
 <!-- Mobile -->
 
-<div class="cv-mobile">
-  <div class="cv-mobile-pdf-box">
+<div class="gcv-mobile">
+  <div class="gcv-mobile-box">
     <iframe
       src="{{ base_path }}/files/CV_Goeum_Cha_052026.pdf"
-      class="cv-mobile-pdf"
+      class="gcv-mobile-pdf"
       style="border: none;">
     </iframe>
   </div>
