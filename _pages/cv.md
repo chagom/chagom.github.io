@@ -10,7 +10,9 @@ person_schema: true
 
 {% include base_path %}
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center;
+overflow: auto;
+-webkit-overflow-scrolling: touch;">
 <iframe
   src="{{ base_path }}/files/CV_Goeum_Cha_052026.pdf"
   width="90%"
@@ -18,4 +20,4 @@ person_schema: true
   style="border: none;">
 </iframe>
 </div>
-<br><br>
+
