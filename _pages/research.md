@@ -19,8 +19,10 @@ If you are curious about the motivation behind my journey: [here](/research_root
 
 ## Participating Projects 
 - Multi-Robot Interaction with group dynamics (lead)
-- Asian-Immigrant mental health AI agent interaction (co-lead; external) [eVOLve 26'](https://csw.utk.edu/continuing-education/evolve-conference/)
-- XR conversational interface
+- Asian-Immigrant mental health AI agent interaction (co-lead; external) [eVOLve 26'](https://csw.utk.edu/continuing-education/evolve-conference/), [](), []()
+- VR conversational interface
+- Robot modality
+- Trust repair
 
 <span style="color:gray">*(Each topic is intentionally kept vague)* </span>
 

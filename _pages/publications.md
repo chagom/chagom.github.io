@@ -7,8 +7,8 @@ person_schema: true
 ---
 
 ## Under Review
-- [anonymous authors], [title omitted for anonymity], ACM International Conference on Multimodal Interaction (ICMI)
-- [anonymous authors], [title omitted for anonymity], ACM International Conference on Multimodal Interaction (ICMI)
+- [anonymous authors], [title omitted for anonymity], IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS); accepted
+- [anonymous authors], [title omitted for anonymity], Journal of Technology in Human Services
 - [anonymous authors], [title omitted for anonymity], Society for Social Work and Research (SSWR)
 - [anonymous authors], [title omitted for anonymity], Society for Social Work and Research (SSWR)
 

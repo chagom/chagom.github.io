@@ -10,6 +10,8 @@ robots: noindex
 My teaching philosophy has been deeply shaped by Dr. Dawn Laux who I learned the importance of positive reinforcement from. Inspired by this approach, I view teaching not merely as the delivery of knowledge, but as a responsibility to foster curiosity, critical thinking, and independent learning. 
 
 ## Invited talks
+* Guest Lecturer, SOWK 550 Clinical Seminiar, University of Tennessee, July 2026
+    - AI for Mental Health: AI Digital Storytelling to Workshop
 * Speaker, eVOLve: The Future of Behavioral Health, University of Tennessee, March 2026
     - AI Storytelling for Immigrant Mental Health: From Pilot to Practice
 * Guest Lecturer, Purdue-UTK Community-based Mental Health Workshop, Purdue University, June 2025

@@ -40,9 +40,31 @@ person_schema: true
 
 <div style="display:flex; justify-content:center;">
   <iframe
-    src="/assets/pdfjs/web/viewer.html?file=/files/CV_Goeum_Cha_052026.pdf#zoom=page-width"
+    src="/assets/pdfjs/web/viewer.html?file=/files/CV_Goeum_Cha_082626.pdf#zoom=page-width"
     width="90%"
     height="900px"
     style="border:none;">
   </iframe>
 </div>
+
+
+
+<script>
+window.addEventListener('load', function () {
+  if (typeof gtag === 'function') {
+    gtag('event', 'cv_view', {
+      file_name: 'CV_Goeum_Cha_082626.pdf',
+      page_path: '/cv/'
+    });
+  }
+});
+
+document.getElementById('cvFrame').addEventListener('load', function () {
+  if (typeof gtag === 'function') {
+    gtag('event', 'cv_pdfjs_loaded', {
+      file_name: 'CV_Goeum_Cha_082626.pdf',
+      page_path: '/cv/'
+    });
+  }
+});
+</script>
