@@ -19,16 +19,16 @@ If you are curious about the motivation behind my journey: [here](/research_root
 
 ## Participating Projects 
 - Multi-Robot Interaction with group dynamics (lead)
-- Asian-Immigrant mental health AI agent interaction (co-lead; external) [eVOLve 26'](https://csw.utk.edu/continuing-education/evolve-conference/), [](), []()
-- VR conversational interface
+- Asian-Immigrant mental health AI agent interaction (co-lead; external) [eVOLve 26'](https://csw.utk.edu/continuing-education/evolve-conference/), [SSWR 27'](), []()
+- VR conversational system
 - Robot modality
-- Trust repair
+- Trust repair: [IROS 26']()
 
 <span style="color:gray">*(Each topic is intentionally kept vague)* </span>
 
 ## Previous Projects
 - Public social robot: []()
-- Multimodal mental health detection: [](), []()
+- Multimodal mental health detection: [SSWR 27'](), []()
 - Mobile literacy education with socially marginalized groups: [CHI EA' 26'](https://dl.acm.org/doi/full/10.1145/3772363.3798622)
 - Empathetic social robot: [RO-MAN 25'](https://ieeexplore.ieee.org/document/11217862)
 - Study companion robot: [RO-MAN 25'](https://ieeexplore.ieee.org/document/11217822)
