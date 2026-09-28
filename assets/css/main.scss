@@ -55,3 +55,33 @@ nav#site-nav ul.visible-links {
   display: flex !important;    
   margin-left: auto !important;  
 }
+
+.professional-activities {
+  h2 {
+    margin-bottom: 0.6em;
+  }
+
+  h3 {
+    margin-top: 1.2em;
+    margin-bottom: 0.5em;
+  }
+
+  ul {
+    margin-top: 0.4em;
+    margin-bottom: 1em;
+  }
+
+  li {
+    margin-bottom: 0.4em;
+  }
+}
+
+.review-recognition {
+  display: block;
+  font-size: 0.9em;
+  font-weight: 400;
+  line-height: 1.25;
+  margin-top: 0.25em;
+  margin-left: 1.25em;
+  margin-bottom: 0.1em;
+}
