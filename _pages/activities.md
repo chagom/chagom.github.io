@@ -10,6 +10,7 @@ person_schema: true
 
 ## Reviewing
 ### 2026
+- ACM/IEEE International Conference on Human-Robot Interaction (HRI)
 - ACM CHI Extended Abstracts<span class="review-recognition">  Special Recognition for Outstanding Review ×2</span>
 - ACM Conversational User Interfaces (CUI)<span class="review-recognition">  Special Recognition for Outstanding Review</span>
 - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
@@ -38,4 +39,5 @@ person_schema: true
 ## Other Activities
 
 - **2023** - Student Judge, Spring Undergraduate Research Conference, Purdue Polytechnic Institute, Purdue University
+- **2021** - Competition, NASA Space Robotics Cahllenge Phase 2 (Purdue-Hongik Team)
 - **2019** - Student Judge, IEEE Sensors and Measurement Student Contest, IEEE Sensors Applications Symposium (SAS)

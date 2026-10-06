@@ -7,10 +7,10 @@ person_schema: true
 ---
 
 ## Under Review
-- [anonymous authors], [title omitted for anonymity], IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS); accepted
 - [anonymous authors], [title omitted for anonymity], Journal of Technology in Human Services
-- [anonymous authors], [title omitted for anonymity], Society for Social Work and Research (SSWR); accepted
-- [anonymous authors], [title omitted for anonymity], Society for Social Work and Research (SSWR); accepted
+- Gayoung Kim, Go-Eum Cha, & Wonse Jo, Toward Study on the Effects of Robot's Humorous Apology on Human's Trust Recovery, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 26' Late Breaking Work; accepted
+- Sangmi Kim, Go-Eum Cha, Yooseung Kim, & Sooyeon Jeong, From Hidden Barriers to Engagement: Workshop on AI-Supported Digital Storytelling for Immigrant Mental Health,  Society for Social Work and Research (SSWR); accepted
+- Sangmi Kim, Andrew Kim, Go-Eum Cha, Yoonsook Ha, Sooyeon Jeong, & Hong-Jun Yoon, Scoping Review of Multimodal AI for Suicide Detection on Social Media: Implications for Improvement through Data Justice Lens, Society for Social Work and Research (SSWR); accepted
 
 
 ## Published 
