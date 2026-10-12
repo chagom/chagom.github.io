@@ -1,3 +1,11 @@
-<script src="{{ base_path }}/assets/js/main.min.js"></script>
+<script>
+document.addEventListener("contextmenu", function (event) {
+  event.preventDefault();
+}, true);
 
-{% include analytics.html %}
+document.addEventListener("dragstart", function (event) {
+  if (event.target instanceof HTMLImageElement) {
+    event.preventDefault();
+  }
+}, true);
+</script>
