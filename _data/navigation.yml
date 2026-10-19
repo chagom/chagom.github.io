@@ -14,14 +14,14 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Activities"
+    url: /activities/
+
   # - title: "Talks"
   #   url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Activities"
-    url: /activities/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
