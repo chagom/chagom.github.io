@@ -23,6 +23,7 @@ If you are curious about the motivation behind my journey: [here](/research_root
 - VR conversational system
 - Robot modality
 - Trust repair: [IROS 26']()
+- Scaffolding with AR glasses and AI agent
 
 <span style="color:gray">*(Each topic is intentionally kept vague)* </span>
 
