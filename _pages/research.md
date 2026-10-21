@@ -21,9 +21,9 @@ If you are curious about the motivation behind my journey: [here](/research_root
 - Multi-Robot Interaction with group dynamics (lead)
 - Asian-Immigrant mental health AI agent interaction (co-lead; external) [eVOLve 26'](https://csw.utk.edu/continuing-education/evolve-conference/), [SSWR 27'](), []()
 - VR conversational system
-- Robot modality
+- Hardware-based robotic modality design
 - Trust repair: [IROS 26']()
-- Scaffolding with AR glasses and AI agent
+- AR-based learning scaffolding with AI agents
 
 <span style="color:gray">*(Each topic is intentionally kept vague)* </span>
 
