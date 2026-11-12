@@ -7,8 +7,7 @@ person_schema: true
 ---
 
 ## Under Review
-- [anonymous authors], [title omitted for anonymity], Journal of Technology in Human Services
-- Gayoung Kim, Go-Eum Cha, & Wonse Jo, Toward Study on the Effects of Robot's Humorous Apology on Human's Trust Recovery, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 26' Late Breaking Work; accepted
+- [anonymous authors], [title omitted for anonymity], Social Work in Mental Health
 - Sangmi Kim, Go-Eum Cha, Yooseung Kim, & Sooyeon Jeong, From Hidden Barriers to Engagement: Workshop on AI-Supported Digital Storytelling for Immigrant Mental Health,  Society for Social Work and Research (SSWR); accepted
 - Sangmi Kim, Andrew Kim, Go-Eum Cha, Yoonsook Ha, Sooyeon Jeong, & Hong-Jun Yoon, Scoping Review of Multimodal AI for Suicide Detection on Social Media: Implications for Improvement through Data Justice Lens, Society for Social Work and Research (SSWR); accepted
 
@@ -37,6 +36,8 @@ A full list of peer-reviewed publications is available on [Google Scholar](https
 - **Cha, G. E.**, Kim, E. J., & Lee, K. H. (2017). State-of-the-Art of Domestic Emotional Robots. In Proceedings of the Korean Society of Computer Information Conference (pp. 161-162). Korean Society of Computer Information.
 
 ### Other Publications
+
+- Gayoung Kim, Go-Eum Cha, & Wonse Jo, Toward Study on the Effects of Robot's Humorous Apology on Human's Trust Recovery, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 26' Late Breaking Results
 
 - Suh, D., **Cha, G. E.** & Min, B. C. (2024), Activity-based Behavioral Cooking
 Proficiency Estimation with Graph Neural Networks and Transformer, Spring Undergraduate Research Conference, Purdue University, USA.
